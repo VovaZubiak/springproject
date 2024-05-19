@@ -57,4 +57,4 @@
 | `POST /admin/users` | Створення нового адміністратора |
 | `DELETE /admin/users/{id}` | Видалення адміністратора |
 
-(https://github.com/VovaZubiak/CQLDataBase/blob/831641cfcb5607fea76de2a15929f13a658728dc/diagrama.JPG)
+![ERD diagram](https://github.com/VovaZubiak/CQLDataBase/blob/831641cfcb5607fea76de2a15929f13a658728dc/diagrama.JPG)
