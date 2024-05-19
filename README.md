@@ -59,4 +59,4 @@
 
 ## ER-diagram
 
-![ERD diagram](https://github.com/VovaZubiak/CQLDataBase/blob/831641cfcb5607fea76de2a15929f13a658728dc/diagrama.JPG)
+![ERD diagram](https://github.com/VovaZubiak/springproject/blob/main/diagrama.jpg)
